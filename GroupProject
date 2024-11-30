@@ -1,0 +1,2 @@
+Variable1 = "Hello World"
+print(Variable1)
